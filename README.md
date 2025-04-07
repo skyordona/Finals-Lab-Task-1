@@ -1,4 +1,4 @@
-# [Finals-Lab-Task-1](https://github.com/user-attachments/files/19615214/Soguilon.Carl.Asnef.B.FINALS.EDM.SQL.docx)
+# [Finals Lab Task 1 - Creating a Database Using MySQL Workbench](https://github.com/user-attachments/files/19615214/Soguilon.Carl.Asnef.B.FINALS.EDM.SQL.docx)
 - This portfolio is about learning MySQL basics through a multi-level company database. It includes tasks like writing SQL queries, creating table structures, and making an ER diagram or relational schema. The portfolio will also include SQL copies of the database and table structures to show how the database is built.
 
 ## Step by Step Process
