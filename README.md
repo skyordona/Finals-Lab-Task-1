@@ -1,5 +1,4 @@
 # [Finals Lab Task 1 - Creating a Database Using MySQL Workbench](https://github.com/user-attachments/files/19641635/Finals.Lab.Task.1.-.Ordona.docx)
-- This portfolio is about learning MySQL basics through a multi-level company database. It includes tasks like writing SQL queries, creating table structures, and making an ER diagram or relational schema. The portfolio will also include SQL copies of the database and table structures to show how the database is built.
 
 ## Step by Step Process
 1. Create the `employees` table:
